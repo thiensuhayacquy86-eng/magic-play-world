@@ -1,0 +1,6 @@
+{
+  "name": "Thế Giới Phiêu Lưu Kỳ Thú – Magic Play World",
+  "description": "Khu vui chơi giải trí mini 3D dành cho trẻ mầm non từ 3–6 tuổi với 6 thế giới kỳ thú, 24 trò chơi tương tác, hệ thống sao, huy hiệu và góc quản trị giáo viên.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
